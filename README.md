@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<a href="https://github.com/efremandre/github-readme-stats"><img src="https://camo.githubusercontent.com/8587c5fbd034bf8fe625a53aac842bda8dc595bef97485aa0d08231949ce4aca/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d656672656d616e647265266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolaskuban&amp;layout=compact" style="max-width: 100%;"></a>
 <!--
 **NicolasKuban/NicolasKuban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
